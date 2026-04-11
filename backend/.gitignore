@@ -2,3 +2,5 @@ processed
 raw_videos
 venv
 new_test_data
+.gitignore
+sample_video
