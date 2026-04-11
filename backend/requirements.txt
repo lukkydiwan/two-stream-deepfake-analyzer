@@ -8,3 +8,5 @@ albumentations
 tqdm
 numpy
 pandas
+matplotlib
+sklearn
