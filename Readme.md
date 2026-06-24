@@ -40,7 +40,7 @@ The feature maps from both streams are concatenated and passed through a fusion 
 
 ## Architecture
 
-![Two-Stream Deepfake Analyzer Architecture](banner.png)
+![Two-Stream Deepfake Analyzer Architecture](deepfake_banner.svg)
 
 ```
 Input Video
